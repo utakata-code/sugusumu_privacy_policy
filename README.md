@@ -1,1 +1,0 @@
-# sugusumu_privacy_policy
