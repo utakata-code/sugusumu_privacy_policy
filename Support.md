@@ -51,8 +51,8 @@ You can delete your data in the following ways:
   Uninstalling the app will delete all local data.
 - **クラウド上のレシート画像 / Cloud receipt images:** アプリ内でレシート画像を削除すると、クラウド上の画像も即時削除されます。  
   Deleting a receipt image within the app will also immediately delete it from the cloud.
-- **自動削除 / Automatic deletion:** サブスクリプション解約後、一定期間経過でクラウド上の画像は自動的に削除されます。  
-  After subscription cancellation, cloud images will be automatically deleted after a certain period.
+- **自動削除 / Automatic deletion:** サブスクリプション解約または無料トライアル終了から20日経過後、クラウド上の画像は自動的に削除されます。  
+  After subscription cancellation or free trial expiration, cloud images will be automatically deleted after 20 days.
 
 ### Q. サブスクリプション解約後もデータは残りますか？ / Will my data remain after cancellation?
 A. はい、端末内に保存されたデータはそのまま閲覧可能です。ただし、新規データの入力は制限されます。既存データのCSV出力は引き続きご利用いただけます。  
