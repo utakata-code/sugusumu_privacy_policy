@@ -26,7 +26,7 @@ support.sugusumu@gmail.com
 
 ## 販売URL
 
-- App Store: 公開後に掲載予定
+- App Store: https://apps.apple.com/jp/app/sugusumu/id6773377593
 - Google Play: 公開後に掲載予定
 
 ## 販売価格
